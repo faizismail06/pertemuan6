@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "190751650068",
+    "firebase_url": "https://iot2025-3a08b-default-rtdb.firebaseio.com",
+    "project_id": "iot2025-3a08b",
+    "storage_bucket": "iot2025-3a08b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190751650068:android:5106fc0cdd6e907fd19201",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_suhu_dan_led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsK_oKE7iDRYdA_fqoG9Sqse4_wseAwJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
